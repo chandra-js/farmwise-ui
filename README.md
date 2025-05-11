@@ -54,7 +54,8 @@ src/
 - Vite
 
 ## Contributing
-[Add contribution guidelines here]
+[Chandra](https://github.com/chandra-js)
 
-## License
-[Add license information here]
+## View
+<img width="1670" alt="screenshot" src="https://github.com/user-attachments/assets/204b362f-7ba1-4ffe-af4e-7f76dcff1d8d" />
+
