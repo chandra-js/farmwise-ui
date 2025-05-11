@@ -1,0 +1,31 @@
+.challengesSection {
+  padding: 64px 0;
+  background: #f8fafc;
+}
+.challengesSection__title {
+  font-weight: 700;
+  margin-bottom: 16px;
+  text-align: center;
+}
+.challengesSection__divider {
+  width: 80px;
+  margin: 0 auto 32px auto;
+  border-bottom: 3px solid var(--mui-primary-main, #388e3c);
+}
+.challengesSection__card {
+  padding: 24px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+} 
+.challengesSection__gridItem {
+  width: 40%;
+  @media (max-width: 768px) {
+    width: 50%;
+  }
+  @media (max-width: 480px) {
+    width: 100%;
+  }
+}

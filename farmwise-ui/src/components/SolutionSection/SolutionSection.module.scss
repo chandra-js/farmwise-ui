@@ -1,0 +1,28 @@
+.solutionSection {
+  padding: 64px 0;
+  background: #fff;
+}
+.solutionSection__title {
+  font-weight: 700;
+  margin-bottom: 16px;
+  text-align: center;
+}
+.solutionSection__divider {
+  width: 80px;
+  margin: 0 auto 32px auto;
+  border-bottom: 3px solid var(--mui-primary-main, #388e3c);
+}
+.solutionSection__list {
+  margin-bottom: 0;
+}
+.solutionSection__imageWrapper {
+  border-radius: 16px;
+  overflow: hidden;
+  max-width: 300px;
+  margin: 0 auto;
+  // box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+.solutionSection__image {
+  width: 100%;
+  display: block;
+} 

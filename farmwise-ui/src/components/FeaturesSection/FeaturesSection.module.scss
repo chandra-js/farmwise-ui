@@ -1,0 +1,28 @@
+.featuresSection {
+  padding: 64px 0;
+  background: #f8fafc;
+}
+.featuresSection__title {
+  font-weight: 700;
+  margin-bottom: 16px;
+  text-align: center;
+}
+.featuresSection__divider {
+  width: 80px;
+  margin: 0 auto 32px auto;
+  border-bottom: 3px solid var(--mui-primary-main, #388e3c);
+}
+.featuresSection__card {
+  padding: 24px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+.featuresSection__gridItem {
+  width: 100%;
+  @media (min-width: 900px) {
+    width: 30%;
+  }
+} 
